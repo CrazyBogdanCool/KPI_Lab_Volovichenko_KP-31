@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com/CrazyBogdanCool.io',
+  url: 'https://crazybogdancool.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/KPI_Lab_Volovichenko_KP-31/',
+  baseUrl: '/crazybogdancool/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
